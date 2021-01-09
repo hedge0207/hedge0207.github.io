@@ -62,6 +62,15 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-35d09f4d1f6a70300fce.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/컴퓨팅-사고력
+  Link: </webpack-runtime-bb11eae3de0cc95d3c77.js>; rel=preload; as=script
+  Link: </framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
+  Link: </app-e780a71adcf530be7f69.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-27a17fae7cdc8cb7e919.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-adb5be84c065a54d5676.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/컴퓨팅-사고력/page-data.json>; rel=preload; as=fetch; crossorigin
 /유용한-사이트-및-언어와-ide의-설치-방법
   Link: </webpack-runtime-bb11eae3de0cc95d3c77.js>; rel=preload; as=script
   Link: </framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
@@ -89,6 +98,15 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-page-query-tsx-fd8a3db517188151623a.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/tags/cs
+  Link: </webpack-runtime-bb11eae3de0cc95d3c77.js>; rel=preload; as=script
+  Link: </framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
+  Link: </app-e780a71adcf530be7f69.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </aed2e917f30c051bccba91aa15989a75fd0bd633-27a17fae7cdc8cb7e919.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx-6d5261cb188f0457dd2e.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tags/cs/page-data.json>; rel=preload; as=fetch; crossorigin
 /tags/git
   Link: </webpack-runtime-bb11eae3de0cc95d3c77.js>; rel=preload; as=script
   Link: </framework-cd3e1e804d552fa282ef.js>; rel=preload; as=script
